@@ -1,0 +1,95 @@
+.menu {
+    border:1px solid gray;
+    padding:5px;
+    width: 200px;
+    height: 1000px;
+    background-color: rgb(241, 241, 241);
+    float: left;
+    font-family: "Noto Sans JP";
+}
+.main {
+    list-style: none;
+}
+.people {
+    list-style: none;
+}
+.menu img {
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.menu a {
+    text-decoration: none;
+    text-align: right;
+}
+html {
+    padding: 0ch;
+    margin: 0ch;
+}
+body {
+    padding: 0ch;
+    margin: 0ch;
+}
+ul {
+    padding: 0ch;
+    margin: 0ch;
+}
+.wiki h2{
+    position: relative;
+    left: 30px;
+    font-family: "Noto Sans JP";
+    padding: 0ch;
+    margin: 0ch;
+}
+.aiueowiki h2{
+    position: relative;
+    left: 30px;
+    font-family: "Noto Sans JP";
+    padding: 0ch;
+    margin: 0ch;
+}
+html {
+    width: 1800;
+}
+.wiki h2{
+    position: relative;
+    top: 5px;
+}
+.wiki hr{
+    position: relative;
+    top: 7px;
+    left: 20px;
+}
+.wiki p{
+    position: relative;
+    left: 30px;
+    margin: 0ch;
+    padding: 0ch;
+}
+.wiki br {
+    height: 1px;
+}
+.syoukai{
+    padding: 10px;
+    
+}
+.yodan{
+    position: relative;
+    left: 20px;
+    font-family: "Noto Sans JP";
+}
+.aiueowiki hr{
+    position: relative;
+    top: 7px;
+    left: 20px;
+}
+.aiueowiki p{
+    position: relative;
+    top: 6px;
+    left: 30px;
+}
+.aiueowiki{
+    font-family: "Noto Sans JP";
+}
+    
+
