@@ -2,7 +2,7 @@
     border:1px solid gray;
     padding:5px;
     width: 200px;
-    height: 1000px;
+    height: 1200px;
     background-color: rgb(241, 241, 241);
     float: left;
     font-family: "Noto Sans JP";
@@ -92,4 +92,11 @@ html {
     font-family: "Noto Sans JP";
     margin: 0px;
     padding: 0px;
+    left: 30px;
 }
+.aiueowiki {
+    position: relative;
+    top: 7px;
+    left: 20px;
+}
+
