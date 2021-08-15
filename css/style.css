@@ -1,3 +1,12 @@
+/*                                                       __________
+   ________                 ________                    /          \        
+           |                        |                 /             \       |  /
+           |      /\                |      /\         |              |      | /          /\
+   ________|     /  \       ________|     /  \        |              |      |/          /  \
+   |            /    \     |             /    \       |              |      |\         /    \
+   |           /------\    |            /------\       \            /       | \       /------\
+   |_______   /        \   |_________  /        \       \__________/        |   \    /        \
+*/
 .menu {
     border:1px solid gray;
     padding:5px;
@@ -99,4 +108,46 @@ html {
     top: 7px;
     left: 20px;
 }
-
+.hatanewiki hr{
+    position: relative;
+    top: 7px;
+    left: 20px;
+}
+.hatanewiki h2{
+    top: 7px;
+    position: relative;
+    left: 20px;
+    font-family: "Noto Sans JP";
+    margin: 0px;
+    padding: 0px;
+}
+.hatanewiki{
+    margin: 0px;
+    padding: 0px;
+}
+.hatanewiki p{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Noto Sans JP";
+    position: relative;
+    left: 20px;
+}
+.mokuji li{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    font-family: "Noto Sans JP";
+    list-style: square;
+    text-decoration: none;
+}
+.mokujinaiyou{
+    
+    display: inline-block;
+    border: dashed rgb(192, 192, 192);
+    position: relative;
+    top: 10px;
+    width: 150px;
+    height: 100px;
+    left: 20px;
+    
+}
