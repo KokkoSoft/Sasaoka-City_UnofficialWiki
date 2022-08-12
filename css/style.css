@@ -7,6 +7,7 @@
    |           /------\    |            /------\       \            /       | \       /------\
    |_______   /        \   |_________  /        \       \__________/        |   \    /        \
 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Poppins&display=swap');
 .menu {
     border:1px solid gray;
     padding:5px;
@@ -36,6 +37,7 @@ html {
     margin: 0ch;
 }
 body {
+    font-family: 'Rounded MPlus 1c', sans-serif;
     padding: 0ch;
     margin: 0ch;
 }
@@ -150,4 +152,10 @@ html {
     height: 100px;
     left: 20px;
     
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: silver;
+  }
 }
